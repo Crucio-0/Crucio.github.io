@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="index.css">
 <div class="wrapper">
   <input type="checkbox" name="nav-check" id="nav-check" />
   <section class="sec-about" id="sec-about">
